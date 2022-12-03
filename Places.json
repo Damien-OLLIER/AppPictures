@@ -11,7 +11,7 @@
         }
       },
       "name": "Venise",
-      "vicinity": "Voyage en amoureux à Venise !"
+      "vicinity": "Voyage en amoureux Ã  Venise !!"
     },
     {
       "geometry": {
@@ -31,7 +31,7 @@
         }
       },
       "name": "Lucerne",
-      "vicinity": "Voyage à Lucerne avec le petit chat, septembre 2021"
+      "vicinity": "Voyage Ã  Lucerne avec le petit chat, septembre 2021"
     },
     {
       "geometry": {
@@ -41,7 +41,7 @@
         }
       },
       "name": "Morzine",
-      "vicinity": "Week-end à Morzine avec les amis de Camille pendant l'été'"
+      "vicinity": "Week-end Ã  Morzine avec les amis de Camille pendant l'Ã©tÃ©'"
     },
     {
       "geometry": {
@@ -50,8 +50,8 @@
           "lng": 6.8000
         }
       },
-      "name": "Nouvel an à Morzine",
-      "vicinity": "Nouvel an à Morzine pour fêter la nouvelle année 2022"
+      "name": "Nouvel an Ã  Morzine",
+      "vicinity": "Nouvel an Ã  Morzine pour fÃªter la nouvelle annÃ©e 2022"
     },
     {
       "geometry": {
@@ -61,7 +61,7 @@
         }
       },
       "name": "Pays-Bas",
-      "vicinity": "Voyage à Amsterdam et ses alentours avec la louloute en temps de covid"
+      "vicinity": "Voyage Ã  Amsterdam et ses alentours avec la louloute en temps de covid"
     },
     {
       "geometry": {
@@ -71,7 +71,7 @@
         }
       },
       "name": "Chichilianne ",
-      "vicinity": "Ski de fond à Chichilianne avec la famille Cherblanc (2021) "
+      "vicinity": "Ski de fond Ã  Chichilianne avec la famille Cherblanc (2021) "
     },
     {
       "geometry": {
@@ -81,7 +81,7 @@
         }
       },
       "name": "Zurich",
-      "vicinity": "Week-end en amoureux en Suisse, à Zurich en octobre 2021"
+      "vicinity": "Week-end en amoureux en Suisse, Ã  Zurich en octobre 2021"
     },
     {
       "geometry": {
@@ -90,8 +90,8 @@
           "lng": 0.68484
         }
       },
-      "name": "Loire à vélo",
-      "vicinity": "Premier d'une longue série de périple à vélo avec la louloute ! Grosse partie de la loire à vélo"
+      "name": "Loire Ã  vÃ©lo",
+      "vicinity": "Premier d'une longue sÃ©rie de pÃ©riple Ã  vÃ©lo avec la louloute ! Grosse partie de la loire Ã  vÃ©lo"
     },
     {
       "geometry": {
@@ -101,7 +101,7 @@
         }
       },
       "name": "Appartement des loulous",
-      "vicinity": "Lieu de villégiature des loulous pendant la période covid"
+      "vicinity": "Lieu de villÃ©giature des loulous pendant la pÃ©riode covid"
     },
     {
       "geometry": {
@@ -111,7 +111,7 @@
         }
       },
       "name": "Innsbruck",
-      "vicinity": "Week-end parfait avec la louloute à Innsbruck en février 2022, on repassera pour la fonderie des horloges"
+      "vicinity": "Week-end parfait avec la louloute Ã  Innsbruck en fÃ©vrier 2022, on repassera pour la fonderie des horloges"
     },
     {
       "geometry": {
@@ -121,7 +121,7 @@
         }
       },
       "name": "Thoune",
-      "vicinity": "Visite de Thoune avec la louloute à coté de Interlaken pendant un Week-end"
+      "vicinity": "Visite de Thoune avec la louloute Ã  cotÃ© de Interlaken pendant un Week-end"
     },
     {
       "geometry": {
@@ -131,7 +131,7 @@
         }
       },
       "name": "Venise",
-      "vicinity": "Semaine passé en Italie à Padoue, et nous avons passé quelque jours à Venise avec petit chat sans les touristes (Pendant le covid)"
+      "vicinity": "Semaine passÃ© en Italie Ã  Padoue, et nous avons passÃ© quelque jours Ã  Venise avec petit chat sans les touristes (Pendant le covid)"
     },
     {
       "geometry": {
@@ -140,8 +140,8 @@
           "lng": 4.837
         }
       },
-      "name": "Année 2022",
-      "vicinity": "Photos relatant notre année 2022 ensemble"
+      "name": "AnnÃ©e 2022",
+      "vicinity": "Photos relatant notre annÃ©e 2022 ensemble"
     },
     {
       "geometry": {
@@ -150,8 +150,8 @@
           "lng": 4.8374
         }
       },
-      "name": "Année 2021",
-      "vicinity": "Photos relatant notre année 2021 ensemble"
+      "name": "AnnÃ©e 2021",
+      "vicinity": "Photos relatant notre annÃ©e 2021 ensemble"
     },
     {
       "geometry": {
@@ -160,8 +160,8 @@
           "lng": 4.83741
         }
       },
-      "name": "Année 2020",
-      "vicinity": "Photos relatant notre année 2020 ensemble"
+      "name": "AnnÃ©e 2020",
+      "vicinity": "Photos relatant notre annÃ©e 2020 ensemble"
     }
   ],
   "status": "OK"
