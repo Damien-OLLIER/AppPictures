@@ -167,17 +167,6 @@
       "GitName": "Photo2020",
       "name": "Année 2020",
       "vicinity": "Photos relatant notre année 2020 ensemble"
-    },
-    {
-      "geometry": {
-        "location": {
-          "lat": 59.3328,
-          "lng": 18.0645
-        }
-      },
-      "GitName": "Stockholm",
-      "name": "Stockholm",
-      "vicinity": "Visite de Stockholm"
     }
   ],
   "status": "OK"
